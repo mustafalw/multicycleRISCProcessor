@@ -20,6 +20,6 @@ Summary of problem statement: Design a 16-bit, 8-register, multicycle RISC proce
 
 For a detailed description of what every description does, like its operands, destination, flags modified by it, etc., please have a look at multicycleRISCProcessor/Project-1-Multicycle-RISC-IITB.pdf
 
-Also, do checkout the video of synthesis of the Verilog code on the FPGA and test case verification at multicycleRISCProcessor/processor_synthesis_DE0-nano.mp4
+Also, do checkout the video of synthesis of the Verilog code on the FPGA and test case verification at https://drive.google.com/open?id=0ByCbdaDy1kjweTJPVG05QU1IOWs
 
 Thanks!
