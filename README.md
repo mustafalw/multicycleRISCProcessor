@@ -1,4 +1,11 @@
 # multicycleRISCProcessor
+
+Team Members:
+1. Mustafa Lokhandwala
+2. Himanshu Pandotra
+3. Jashan Singhal
+4. Khushall Chandra
+
 A 16-bit multicycle RISC processor designed as a part of the EE309-Microprocessors course at EE, IIT Bombay. The design has been implemented using Verilog HDL. Quartus and Altera Modelsim were used to design, debug and test the whole project. The Verilog code was ultimately synthesized on a Terasic DE0-Nano board with the Altera Cyclone IV 4C22 FPGA.
 
 Summary of problem statement: Design a 16-bit, 8-register, multicycle RISC processor with the following instruction set:-
